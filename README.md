@@ -16,13 +16,40 @@ Músicas, playlists, letras, personalização e suas estatísticas em um só apl
 
 ## Por dentro do CatBeat
 
-Capturas reais do aplicativo. A biblioteca e os números exibidos usam dados demonstrativos, sem contas pessoais.
+Capturas reais do aplicativo no Android e no Windows. No celular, veja os visuais usados nos anúncios, gravados em um Galaxy A35 e um Galaxy A17. As telas do Windows usam uma biblioteca demonstrativa.
+
+### No celular: Galaxy A35 e Galaxy A17
+
+O mesmo CatBeat, com duas personalizações diferentes.
+
+| Galaxy A35 | Galaxy A17 |
+|:---:|:---:|
+| <img src="imagens/android-a35-inicio.png" alt="CatBeat no Galaxy A35: início com wallpaper, músicas recentes e player" width="300" /> | <img src="imagens/android-a17-visual.jpg" alt="CatBeat no Galaxy A17: outro visual, cores e biblioteca" width="300" /> |
+
+### Player e playlists no Android
+
+| Player no Galaxy A35 | Importação de playlists no Galaxy A35 |
+|:---:|:---:|
+| <img src="imagens/android-a35-player.jpg" alt="Player Android com capa, controles, letra, cifra, karaokê e compartilhamento" width="300" /> | <img src="imagens/android-a35-playlists.jpg" alt="Importação por link público ou arquivo CSV e TXT no Android" width="300" /> |
+
+<details>
+<summary><strong>Ver offline, equalizador e wallpapers no Galaxy A17</strong></summary>
+
+| Biblioteca offline | Equalizador e efeitos |
+|:---:|:---:|
+| <img src="imagens/android-a17-offline.jpg" alt="Músicas offline e organização da biblioteca no Galaxy A17" width="300" /> | <img src="imagens/android-a17-equalizador.jpg" alt="Presets de áudio, gráfico manual e ajustes de efeitos no Galaxy A17" width="300" /> |
+
+#### Wallpapers e personalização
+
+<img src="imagens/android-a17-wallpapers.jpg" alt="Personalização de wallpapers com imagens e GIFs no Android" width="300" />
+
+</details>
 
 ### No computador
 
 <img src="imagens/inicio-windows.png" alt="CatBeat no Windows: início, biblioteca, mixes e músicas em alta" width="100%" />
 
-### Mais de um visual
+### Layouts compactos no computador
 
 | Interface compacta | Interface alternativa |
 |:---:|:---:|
