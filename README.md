@@ -10,7 +10,7 @@ Músicas, playlists, letras, personalização e suas estatísticas em um só apl
 
 **[Site oficial e downloads](https://catbeat-download.vercel.app)**
 
-**[Baixar para Android](https://github.com/GABRIELMSORENSEN/CatBeat-App/releases/download/v1.5.13/CatBeat-1.5.13-Android.apk)** · **[Windows: instalador de testes](https://github.com/GABRIELMSORENSEN/CatBeat-App/releases/download/v1.5.13/CatBeat-1.5.13-Setup-x64.exe)** · **[Windows: portátil de testes](https://github.com/GABRIELMSORENSEN/CatBeat-App/releases/download/v1.5.13/CatBeat-1.5.13-Portable-x64.exe)**
+**[Baixar para Android](https://github.com/GABRIELMSORENSEN/CatBeat-App/releases/download/v1.5.14/CatBeat-1.5.14-Android.apk)** · **[Windows: instalador de testes](https://github.com/GABRIELMSORENSEN/CatBeat-App/releases/download/v1.5.14/CatBeat-1.5.14-Setup-x64.exe)** · **[Windows: portátil de testes](https://github.com/GABRIELMSORENSEN/CatBeat-App/releases/download/v1.5.14/CatBeat-1.5.14-Portable-x64.exe)**
 
 [Conheça as funções](#o-que-você-pode-fazer) · [Veja o aplicativo](#por-dentro-do-catbeat) · [Como instalar](#instalação)
 
@@ -155,9 +155,9 @@ O mesmo CatBeat, com duas personalizações diferentes.
 
 | Dispositivo | Download | Observação |
 |---|---|---|
-| Android | [Baixar APK](https://github.com/GABRIELMSORENSEN/CatBeat-App/releases/download/v1.5.13/CatBeat-1.5.13-Android.apk) | Android 7 ou superior. Atualize por cima da versão anterior para preservar os dados. |
-| Windows | [Baixar instalador de testes](https://github.com/GABRIELMSORENSEN/CatBeat-App/releases/download/v1.5.13/CatBeat-1.5.13-Setup-x64.exe) | Para instalar no computador Windows de 64 bits. |
-| Windows portátil | [Baixar versão de testes sem instalação](https://github.com/GABRIELMSORENSEN/CatBeat-App/releases/download/v1.5.13/CatBeat-1.5.13-Portable-x64.exe) | Abra o aplicativo sem executar um instalador. |
+| Android | [Baixar APK](https://github.com/GABRIELMSORENSEN/CatBeat-App/releases/download/v1.5.14/CatBeat-1.5.14-Android.apk) | Android 7 ou superior. Atualize por cima da versão anterior para preservar os dados. |
+| Windows | [Baixar instalador de testes](https://github.com/GABRIELMSORENSEN/CatBeat-App/releases/download/v1.5.14/CatBeat-1.5.14-Setup-x64.exe) | Para instalar no computador Windows de 64 bits. |
+| Windows portátil | [Baixar versão de testes sem instalação](https://github.com/GABRIELMSORENSEN/CatBeat-App/releases/download/v1.5.14/CatBeat-1.5.14-Portable-x64.exe) | Abra o aplicativo sem executar um instalador. |
 
 No Android, autorize a instalação pelo aplicativo que você usou para baixar o APK, se o sistema solicitar. Baixe somente pelos canais oficiais.
 
@@ -165,7 +165,10 @@ No Android, autorize a instalação pelo aplicativo que você usou para baixar o
 
 ## Nesta atualização
 
-- Mixes e músicas em alta agora abrem a lista antes de tocar. Explore a coleção e escolha sua faixa.
+- Busque por faixa ou artista dentro da playlist e da biblioteca offline.
+- Ajuste a velocidade na Home e abra o equalizador direto do player expandido.
+- Personalize seu perfil. Na aba Uso, compartilhe a retrospectiva ou escolha onde salvar o PNG.
+- Atualizações futuras aparecem no aplicativo, com opção de lembrar mais tarde.
 - Seu mix combina músicas conhecidas com novas recomendações baseadas no seu gosto.
 - Modo local sem login dedicado aos seus próprios arquivos. Downloads da conta não são transferidos para outra conta nem para esse modo.
 - Permissões e bateria e atividade no Discord abrem e fecham como as outras opções. A integração Discord começa habilitada quando não há uma preferência salva; sua escolha anterior é respeitada.
